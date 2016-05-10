@@ -14,6 +14,7 @@ gem 'sass-rails', '~> 5.0'
 # Use Foundation
 gem 'foundation-rails'
 gem 'devise-foundation-views'
+gem 'stock_quote'
 # Use font-awesome
 gem 'font-awesome-sass'
 # Use Uglifier as compressor for JavaScript assets
